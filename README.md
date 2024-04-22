@@ -60,7 +60,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/initialrise/initialrise/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/Ritesh4032/Ritesh4032/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
