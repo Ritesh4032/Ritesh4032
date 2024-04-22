@@ -61,11 +61,11 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/initialrise/initialrise/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/Ritesh4032/Ritesh4032/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/initialrise/initialrise/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Ritesh4032/Ritesh4032/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
