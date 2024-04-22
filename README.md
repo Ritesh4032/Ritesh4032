@@ -43,17 +43,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh4032)](https://github.com/Ritesh4032/github-readme-stats)
+<p align="center">
+<a href="http://www.github.com/Ritesh4032#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ritesh4032&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true#gh-dark-mode-only" alt="Ritesh's GitHub stats" /></a><a href="http://www.github.com/Ritesh4032#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh4032&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true#gh-dark-mode-only" /></a><a href="http://www.github.com/Ritesh4032">
+</p>
+<p align="center">
+<a href="http://www.github.com/Ritesh4032#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ritesh4032&show_icons=true&hide=&count_private=true&theme=default&hide_border=true&show_icons=true#gh-light-mode-only" alt="Ritesh4032's GitHub stats" /></a>
+<a href="http://www.github.com/Ritesh4032#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ritesh4032&hide_border=true#gh-dark-mode-only" /></a><a href="http://www.github.com/Ritesh4032">
+<br/>
+</p>
 </div>
 
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
