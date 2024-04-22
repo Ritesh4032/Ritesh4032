@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh4032&show_icons=true&theme=radical)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh4032)](https://github.com/Ritesh4032/github-readme-stats)
 </div>
 
 <br/><br/>
