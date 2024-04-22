@@ -54,6 +54,9 @@
 </div>
 
 <br/><br/>
+<div align = "center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -68,5 +71,5 @@
     src="https://github.com/Ritesh4032/Ritesh4032/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+</div>
 <hr/>
